@@ -1,0 +1,2 @@
+# LanQiao
+My solution（JAVA）
